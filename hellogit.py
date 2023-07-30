@@ -1,2 +1,2 @@
-Print ("Este es mi primer commit")
+Print ("New Hello Git")
 
